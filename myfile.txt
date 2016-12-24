@@ -1,0 +1,3 @@
+I am learning git.
+Shuai xianghui is learning git.
+I just want to create a file.
